@@ -34,19 +34,21 @@ Javascript
 _________________
 
 **Repo Link**
- https://#/
+ https://https://github.com/olagodavid/My-Projects/
 
 **Project Details**
+A website that talks about the power of the brain and its functionality.
  
 
-
 **Features**
-
+Dynamic image slider
 NavBar Links: 
  1. 
 
 **Tools**
-
+1. HTML
+2. CSS
+3. JAVASCRIPT
 
 **Contributors**
 [David Olago](https://github.com/Olagodavid)
