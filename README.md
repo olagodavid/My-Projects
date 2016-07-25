@@ -34,7 +34,7 @@ Javascript
 _________________
 
 **Repo Link**
- https://https://github.com/olagodavid/My-Projects/
+ https://https://github.com/olagodavid/Power/
 
 **Project Details**
 A website that talks about the power of the brain and its functionality.
