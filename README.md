@@ -30,7 +30,7 @@ Javascript
  [David Olago](https://github.com/Olagodavid)
  
  
-# Add title here
+# BRAIN POWER
 _________________
 
 **Repo Link**
