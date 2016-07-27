@@ -13,10 +13,11 @@ _________________
 **Features**
 One-page website
 NavBar Links: 
- <ul><li></li>
- 	<li></li>
- 	<li></li>
- 	<li></li>
+ <ul>
+ <li>Home</li>
+ 	<li>About</li>
+ 	<li>Portfolio</li>
+ 	<li>Contact</li>
  </ul>
  
 
@@ -25,6 +26,7 @@ Foundation 6
 Jquery
 Css
 Javascript
+Bootstrap
 
 **Contributors**
  [David Olago](https://github.com/Olagodavid)
