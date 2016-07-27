@@ -42,8 +42,7 @@ A website that talks about the power of the brain and its functionality.
 
 **Features**
 Dynamic image slider
-NavBar Links: 
- 1. 
+
 
 **Tools**
 1. HTML
