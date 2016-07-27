@@ -1,6 +1,35 @@
 ## My personal projects 
 
+# Portfolio
+_________________
 
+**Repo Link**
+
+ [Click me!](https://https://github.com/olagodavid/Folio)
+
+**Project Details**
+ This is my portfolio. It contains some of my front-end projects.
+
+**Features**
+One-page website
+NavBar Links: 
+ <ul><li></li>
+ 	<li></li>
+ 	<li></li>
+ 	<li></li>
+ </ul>
+ 
+
+**Tools**
+Foundation 6
+Jquery
+Css
+Javascript
+
+**Contributors**
+ [David Olago](https://github.com/Olagodavid)
+
+ 
 # Babies
 _________________
 
