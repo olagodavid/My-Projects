@@ -6,7 +6,7 @@ _________________
 
 **Repo Link**
 
- https://https://github.com/olagodavid/Babies
+ [Click me!]https://https://github.com/olagodavid/Babies
 
 **Project Details**
  Babies is a website that collects and displays baby photos. 
