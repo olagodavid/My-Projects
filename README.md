@@ -6,7 +6,7 @@ _________________
 
 **Repo Link**
 
- [Click me!]https://https://github.com/olagodavid/Babies
+ [Click me!](https://https://github.com/olagodavid/Babies)
 
 **Project Details**
  Babies is a website that collects and displays baby photos. 
@@ -34,7 +34,7 @@ Javascript
 _________________
 
 **Repo Link**
- https://https://github.com/olagodavid/Power/
+Repo Link: [Poke me] (https://https://github.com/olagodavid/Power/)
 
 **Project Details**
 A website that talks about the power of the brain and its functionality.
