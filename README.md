@@ -22,10 +22,10 @@ NavBar Links:
  
 
 **Tools**
-Foundation 6
-Jquery
-Css
-Javascript
+Foundation 6,
+Jquery,
+Css,
+Javascript and
 Bootstrap
 
 **Contributors**
