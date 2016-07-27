@@ -51,4 +51,32 @@ Dynamic image slider
 
 **Contributors**
 [David Olago](https://github.com/Olagodavid)
+
+# Animated movies
+_________________
+
+**Repo Link**
+
+ [Click me!](https://github.com/olagodavid/Animated-movie)
+
+**Project Details**
+ A website advertising the animation movie Up.
+
+**Features**
+One-page website
+NavBar Links: 
+ 1. Movies
+ 2. Tickets
+ 3.Timings
+ 
+
+**Tools**
+Foundation 6
+Jquery
+Css
+Javascript
+
+**Contributors**
+ [David Olago](https://github.com/Olagodavid)
+
  
